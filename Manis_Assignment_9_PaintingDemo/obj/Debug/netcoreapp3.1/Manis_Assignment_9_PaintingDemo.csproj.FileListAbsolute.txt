@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\bin\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.exe
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\bin\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.deps.json
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\bin\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.runtimeconfig.json
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\bin\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\bin\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.dll
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\bin\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.pdb
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\obj\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\obj\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\obj\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\obj\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.dll
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\obj\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.pdb
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\obj\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\obj\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Manis_Assignment_9_PaintingDemo\obj\Debug\netcoreapp3.1\Manis_Assignment_9_PaintingDemo.GeneratedMSBuildEditorConfig.editorconfig
